@@ -1,7 +1,15 @@
 ---
-title: "website"
----
+title: "Savera"
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About
+
+[Your academic position and affiliation]
+
+## Research Interests
+
+[Your research areas and current projects]
+
+## Contact
+
+[Your professional contact information]
