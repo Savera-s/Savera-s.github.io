@@ -1,5 +1,23 @@
 ---
-title: "About"
+title: "Get to know me :)"
 ---
 
-About this site
+## About Me
+
+Hi, my name is Savera Sethi, and I am a Psychology student at the University of Waterloo. I am interested in clinical psychology and plan to pursue graduate studies in psychotherapy or clinical psychology.
+
+I'm interested in the intersection of data and decision-making, and I enjoy working with tools like R, Python, and Quarto to analyze and communicate findings.
+
+
+## Research  Interests
+
+My research interests are in complex PTSD and how trauma impacts individuals. I hope to specialize in evidence-based approaches such as Cognitive Behavioural Therapy (CBT), Dialectical Behaviour Therapy (DBT), and Eye Movement Desensitization and Reprocessing (EMDR). Additionally, I am interested in relationships and attachment.
+
+## Connect With Me
+
+Linkedin: https://www.linkedin.com/in/savera-sethi-27abbb286/
+
+ Personal Email: sethisavera@gmail.com
+
+ School Email: savera.sethi@uwaterloo.ca
+

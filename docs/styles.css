@@ -1,1 +1,29 @@
-/* css styles */
+body {
+  background-color: #f2f8ff;
+  color: #1f3050;
+}
+
+h1, h2, h3 {
+  color: #2a6fa7;
+}
+
+a {
+  color: #d63384;
+}
+
+section {
+  background: #ffffff;
+}
+
+.highlighted {
+  color: #ffffff;
+  background-color: #2a6fa7;
+  padding: 1rem;
+  border-radius: 0.75rem;
+  border: 1px solid #1e4f7a;
+  margin: 1.5rem 0;
+}
+
+.highlighted strong {
+  color: #ffd966;
+}

@@ -1,0 +1,20 @@
+---
+title: "Why I learned Quarto"
+author: "Savera Sethi"
+date: "2026-01-27"
+
+---
+
+## My Journey with Quarto
+When I first started using Quarto, VS Code, and GitHub, I found it challenging. Since I had gone through three different computers, I was really struggling and often completed things too quickly and automatically without fully understanding them. After purchasing a Mac and adjusting to some of the differences, I found that my coding journey became much smoother, and I thoroughly enjoyed learning how to complete the assignments.
+
+::: {.highlighted}
+This course taught me that slow, steady progress is better than rushing. If you take your time to understand each step, the work becomes easier and more rewarding.
+:::
+
+## What advice would I give to someone starting out in Psych 390
+
+Some advice I would give to someone taking PSYCH 390 with no coding experience would be to read everything slowly. Take your time, don’t focus on memorizing, and try to understand what each command really does. I noticed that at the start, I would often do things really fast and out of instinct. With this class, I believe patience is truly a virtue.
+
+A recommendation I would have is to make sure you have a good, functional laptop, as I went through three throughout the course, which made things more challenging. I also really enjoyed interacting with my peers and instructors, and as challenging as this course could be, I found it really satisfying when I was able to achieve the end goal.
+

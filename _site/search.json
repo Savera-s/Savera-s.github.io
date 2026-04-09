@@ -1,16 +1,58 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Why I learned Quarto",
+    "section": "",
+    "text": "When I first started using Quarto, VS Code, and GitHub, I found it challenging. Since I had gone through three different computers, I was really struggling and often completed things too quickly and automatically without fully understanding them. After purchasing a Mac and adjusting to some of the differences, I found that my coding journey became much smoother, and I thoroughly enjoyed learning how to complete the assignments."
+  },
+  {
+    "objectID": "blog.html#my-journey-with-quarto",
+    "href": "blog.html#my-journey-with-quarto",
+    "title": "Why I learned Quarto",
+    "section": "",
+    "text": "When I first started using Quarto, VS Code, and GitHub, I found it challenging. Since I had gone through three different computers, I was really struggling and often completed things too quickly and automatically without fully understanding them. After purchasing a Mac and adjusting to some of the differences, I found that my coding journey became much smoother, and I thoroughly enjoyed learning how to complete the assignments."
+  },
+  {
+    "objectID": "blog.html#what-advice-would-i-give-to-someone-starting-out-in-psych-390",
+    "href": "blog.html#what-advice-would-i-give-to-someone-starting-out-in-psych-390",
+    "title": "Why I learned Quarto",
+    "section": "What advice would I give to someone starting out in Psych 390",
+    "text": "What advice would I give to someone starting out in Psych 390\nSome advice I would give to someone taking PSYCH 390 with no coding experience would be to read everything slowly. Take your time, don’t focus on memorizing, and try to understand what each command really does. I noticed that at the start, I would often do things really fast and out of instinct. With this class, I believe patience is truly a virtue.\nA recommendation I would have is to make sure you have a good, functional laptop, as I went through three throughout the course, which made things more challenging. I also really enjoyed interacting with my peers and instructors, and as challenging as this course could be, I found it really satisfying when I was able to achieve the end goal."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "My First Website :)",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Welcome to my first website!!!\nPlease Use the navigation tool above to learn more about what I created and who I am :)"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Get to know me :)",
     "section": "",
-    "text": "About this site"
+    "text": "Hi, my name is Savera Sethi, and I am a Psychology student at the University of Waterloo. I am interested in clinical psychology and plan to pursue graduate studies in psychotherapy or clinical psychology.\nI’m interested in the intersection of data and decision-making, and I enjoy working with tools like R, Python, and Quarto to analyze and communicate findings."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "Get to know me :)",
+    "section": "",
+    "text": "Hi, my name is Savera Sethi, and I am a Psychology student at the University of Waterloo. I am interested in clinical psychology and plan to pursue graduate studies in psychotherapy or clinical psychology.\nI’m interested in the intersection of data and decision-making, and I enjoy working with tools like R, Python, and Quarto to analyze and communicate findings."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "Get to know me :)",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research interests are in complex PTSD and how trauma impacts individuals. I hope to specialize in evidence-based approaches such as Cognitive Behavioural Therapy (CBT), Dialectical Behaviour Therapy (DBT), and Eye Movement Desensitization and Reprocessing (EMDR). Additionally, I am interested in relationships and attachment."
+  },
+  {
+    "objectID": "about.html#connect-with-me",
+    "href": "about.html#connect-with-me",
+    "title": "Get to know me :)",
+    "section": "Connect With Me",
+    "text": "Connect With Me\nLinkedin: https://www.linkedin.com/in/savera-sethi-27abbb286/\nPersonal Email: sethisavera@gmail.com\nSchool Email: savera.sethi@uwaterloo.ca"
   }
 ]

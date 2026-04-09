@@ -1,15 +1,7 @@
 ---
-title: "Savera"
+title: "My First Website :) "
 ---
 
-## About
+Welcome to my first website!!!
 
-[Your academic position and affiliation]
-
-## Research Interests
-
-[Your research areas and current projects]
-
-## Contact
-
-[Your professional contact information]
+Please Use the navigation tool above to learn more about what I created and who I am :)
